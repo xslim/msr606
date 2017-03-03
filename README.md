@@ -2,6 +2,10 @@
 
 Repository contains Python app to read/write MSR using msr606
 
+## Installation
+- Clone
+- Make sure you have pySerial (`pip install --user pyserial`)
+
 ## Usage
 
 - Reading: `./msr.py -d /dev/cu.usbserial -r`
