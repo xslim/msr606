@@ -5,6 +5,7 @@ Repository contains Python app to read/write MSR using msr606
 ## Installation
 - Clone
 - Make sure you have pySerial (`pip install --user pyserial`)
+- If you do not have `pip` you might need to install it. Possibly by `easy_install -U pip`
 
 ## Usage
 
